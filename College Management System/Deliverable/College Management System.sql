@@ -1,4 +1,4 @@
------Project title: COLLEGE MANAGEMENT SYSTEM-----------
+-----Mini Project title: COLLEGE MANAGEMENT SYSTEM-----------
 
 ------Create the Database
 CREATE Database College_Management_System
@@ -90,5 +90,6 @@ ORDER BY Total_credits DESC
 
 
 --------------------------------------------------End of Quary--------------------------------------------------
+
 
 
